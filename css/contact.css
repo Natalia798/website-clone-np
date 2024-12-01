@@ -1,0 +1,134 @@
+.welcome {
+  background-color: var(--bg-primary);
+  height: 50vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-section .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.form-section h2 {
+  text-align: center;
+  padding-top: var(--spacing-large);
+}
+
+.form-section h2,
+.form-section .main-paragraph,
+.form-section .contact {
+  margin-bottom: var(--spacing-large);
+}
+
+.contact {
+  display: flex;
+}
+
+.contact ul,
+.contact form {
+  width: 50%;
+  padding: var(--spacing-medium);
+
+  display: flex;
+  flex-direction: column;
+}
+
+.contact li {
+  display: flex;
+  justify-content: space-between;
+
+  padding-bottom: var(--spacing-small);
+  margin-bottom: var(--spacing-large);
+  border-bottom: 1px solid #ddd;
+}
+
+.contact a,
+.location,
+.program {
+  color: #8e8e8e;
+  font-size: var(--fs-small);
+}
+
+.contact .material-symbols-outlined {
+  color: var(--text-primary);
+  vertical-align: middle;
+}
+
+.contact a:hover,
+.location:hover,
+.program:hover {
+  color: var(--text-primary);
+}
+
+.contact form label {
+  margin-bottom: var(--spacing-tiny);
+  font-size: var(--fs-small);
+}
+
+.contact form input,
+textarea {
+  margin-bottom: var(--spacing-medium);
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  color: #8e8e8e;
+  font-size: var(--fs-small);
+  padding: var(--spacing-small);
+}
+
+.contact form input:focus,
+.contact form textarea:focus {
+  border-color: #8e8e8e;
+  outline: none;
+  color: var(--text-dark);
+}
+
+.contact form textarea {
+  font-family: inherit;
+  height: 100px;
+}
+
+.contact form .submit-button {
+  background-color: var(--button-color);
+  color: white;
+  width: 100px;
+  font-size: var(--fs-medium);
+  text-align: center;
+  border: 1px solid var(--button-color);
+  padding: var(--spacing-small);
+}
+
+@media (max-width: 768px) {
+  .welcome h1 {
+    font-size: 2rem;
+  }
+
+  .contact {
+    flex-direction: column;
+  }
+
+  .contact ul,
+  .contact form {
+    width: 100%;
+    padding: 0;
+  }
+
+  .form-section li {
+    margin-bottom: var(--spacing-medium);
+  }
+
+  form label:first-of-type {
+    margin-top: var(--spacing-medium);
+  }
+
+  input[type="submit"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    opacity: 1;
+  }
+}
