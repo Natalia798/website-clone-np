@@ -6,7 +6,7 @@ This is a basic clone of the ITSchool website, created as part of a web developm
 
 ## 📜 Project Description
 
-The goal of this project was to:
+The goal of this project was to: https://website-clone-np.netlify.app
 
 - Understand and implement fundamental HTML structure.
 - Practice CSS for layout and design.
