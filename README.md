@@ -38,3 +38,12 @@ The goal of this project was to:
 
 This project is for educational purposes only and is not an official reproduction of the ITSchool website.
 
+## 🌟 Explore More Projects  
+
+Here are some of my other projects:  
+
+- [Ovella](https://github.com/Natalia798/ovella) - Personalized meal planner based on menstrual cycle phases.  
+- [News App](https://github.com/Natalia798/news-app) - A React-based app for browsing and saving favorite news articles.  
+- [Weather Forecast App](https://github.com/Natalia798/weather-forecast-app) - Displays current weather and 5-day forecasts.  
+
+
