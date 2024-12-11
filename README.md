@@ -1,34 +1,40 @@
-# ITSchool Clone
+# **ITSchool Clone**
 
-This is a basic clone of the ITSchool website, created as part of a web development course assignment. The project focuses on practicing **HTML** and **CSS** to replicate the layout and styling of a real-world website.
+This is a basic clone of the **ITSchool website**, created as part of a web development course assignment. The project focuses on practicing **HTML** and **CSS** to replicate the layout and styling of a real-world website.
 
 ---
 
-## 📜 Project Description
+## 🌐 **Live Demo**
+
+The project is deployed and accessible at: https://website-clone-np.netlify.app
+
+---
+
+## 📜 **Project Description**
 
 The goal of this project was to:
 
-- Understand and implement fundamental HTML structure.
-- Practice CSS for layout and design.
-- Create a visually similar version of the ITSchool website.
+- **Understand and Implement HTML Fundamentals**:
+  - Build a clear and well-structured HTML layout.
 
-This clone is a simplified version of the original site and does not include advanced features or interactivity.
+- **Practice CSS for Styling and Layout**:
+  - Use CSS properties to style elements and ensure visual similarity to the original website.
+
+- **Recreate a Real-World Design**:
+  - Achieve a visually similar version of the **ITSchool website**, focusing on design rather than functionality.
+
+**Note**: This clone is a simplified version of the original site and does not include advanced features or interactivity.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ **Technologies Used**
 
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and layout.
 
 ---
 
-## 🚀 Deployment
-
-The project is deployed and accessible at: https://website-clone-np.netlify.app
-
----
-
-## 📌 Note
+## 📝 **Disclaimer**
 
 This project is for educational purposes only and is not an official reproduction of the ITSchool website.
+
